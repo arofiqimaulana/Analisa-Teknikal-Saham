@@ -1,7 +1,5 @@
-# Analisa Teknikal Saham
-
-Analisis teknikal adalah teknis analisis yang ditujukan untuk mengamati pola-pola seperti data pasar, harga saham, dan volume transaksi saham.
-
-
-## Refference
-- https://lifepal.co.id/media/analisis-teknikal-saham-caranya/
+# Stock Market Analysis
+Terdapat beberapa teknik dalam analisa harga saham yaitu
+1. Analisis Fundamental (mengetahui perusahaan yang secara fundamental bagus)
+2. Analisis Teknikal (mengetahui kapan harus jual dan kapan harus beli)
+3. Analisis Volume (mengetahui pergerakan bandar/market maker)
